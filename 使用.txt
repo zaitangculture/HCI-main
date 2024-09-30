@@ -1,0 +1,3 @@
+创建环境：conda create -n  example(环境名)  python=3.8(python版本)
+激活：conda activate gesture_control_Win(环境名)
+退出：conda deactivate gesture_control_Win(环境名)
